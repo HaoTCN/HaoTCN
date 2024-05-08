@@ -11,11 +11,12 @@ Here are some ideas from freshmen:
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/HaoTCN/hello-world/blob/main/6.jpg">
   <img alt="test_picture" src="https://github.com/HaoTCN/hello-world/blob/main/6.jpg">
  </picture>
-
 </details>
 
+---
+> We need bravery and craziness!!!
 
-<!--
+<!-- comment
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
