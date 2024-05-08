@@ -6,9 +6,9 @@ Here are some ideas from freshmen:
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/HaoTCN/hello-world)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/HaoTCN/hello-world)">
- <img alt="test_picture" src="[YOUR-DEFAULT-IMAGE](https://github.com/HaoTCN/hello-world)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HaoTCN/hello-world/blob/main/6.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/HaoTCN/hello-world/blob/main/6.jpg">
+ <img alt="test_picture" src="https://github.com/HaoTCN/hello-world/blob/main/6.jpg">
 </picture>
 
 
